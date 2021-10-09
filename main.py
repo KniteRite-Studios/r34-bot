@@ -8,7 +8,7 @@ client = discord.Client()
 
 url = "https://rule34.xxx/index.php?page=post&s=list&tags=user%3akniterite+spunow_+"
 
-client.run("ODk1Nzg1MzE3OTM4OTAxMDkz.YV9nFg.DvP-gR2DALs6f0UjXbnB2kb9QT0")
+client.run("TOKENHIDDENFORSAFETY")
 
 
 @client.event
