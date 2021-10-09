@@ -34,7 +34,7 @@ async def on_message(message):
   if message.author == client.user:
     return
 
-  if message.content.startswith('!embed'):
+  if message.content.startswith('$embed'):
    embedVar = discord.Embed(title="Title", description="Desc", color=0x00ff00)
   embedVar.add_field(name="Field1", value="hi", inline=False)
   embedVar.add_field(name="Field2", value="hi2", inline=False)
