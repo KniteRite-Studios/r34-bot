@@ -1,6 +1,7 @@
 import discord
 import time
 import requests
+
 client = discord.Client()
 
 client.run("Token")
@@ -43,7 +44,7 @@ for line1 in f1:
         value=
         "A new Rule34 Spunow Post has been uploaded! (or there was a server crash and my bot broke lol)",
         inline=False)
-    embedVar.add_field(name="Field2", value="hi2", inline=False)
+    embedVar.add_field(name="Field2", value="bot made by KniteRite Studios", inline=False)
     embedVar.set_thumbnail(url="https://rule34.xxx/images/header3c.png")
 
 
