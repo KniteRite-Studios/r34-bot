@@ -91,4 +91,4 @@ for line1 in f1:
         "A new Rule34 Spunow Post has been uploaded! (or there was a server crash and my bot broke lol)",
         inline=False)
     embedVar.add_field(name="Field2", value="hi2", inline=False)
-    embedVar.set_thumbnail(url="https://i.imgur.com/axLm3p6.jpeg")
+    embedVar.set_thumbnail(url="https://rule34.xxx/images/header3c.png")
